@@ -19,7 +19,7 @@ export default function Home() {
         </h1>
       <div className="justify-center"> </div>
         <a href='https://www.slimjet.com/download.php?version=win32&type=web&beta=&server='>
-          <button className="flex items-center bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded-full">Download</button>
+          <button className="flex items-center bg-blue-500 hover:bg-blue-700 text-white font-bold py-8 px-16 rounded-full">Download</button>
         </a>
       </div>
       <SlimjetInfo/>
